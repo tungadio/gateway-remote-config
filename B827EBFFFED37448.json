@@ -1,0 +1,18 @@
+{
+	  "gateway_conf": {
+	    "gateway_ID": "B827EBFFFED37448",
+	    "servers": [
+	      {
+	        "server_address": "router.eu.thethings.network",
+	        "serv_port_up": 1700,
+	        "serv_port_down": 1700,
+	        "serv_enabled": true
+	      }
+	    ],
+	    "ref_latitude": 28.163258,
+	    "ref_longitude": -25.732328,
+	    "ref_altitude": 1.339,
+	    "contact_email": "davidmbembat@gmail.com.com",
+	    "description": "seeeduino gateway fsati"
+	  }
+	}
